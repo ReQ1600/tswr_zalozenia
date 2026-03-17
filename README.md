@@ -4,7 +4,5 @@
 Zmniejszenie błędu pozycji w dłuższym horyzoncie czasowym
 
 ## Opis
-- Symulator: Mujoco
+- Narzędzia: Mujoco, pybullet
 - trenowanowanie na danych z symulatora. W późniejszym etapie dotrenowanie rzeczyeistymi danymi
-
-  
